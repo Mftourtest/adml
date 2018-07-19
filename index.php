@@ -1,4 +1,4 @@
 
 <?php 
-echo 212443; 
+echo "nihao"; 
 ?>
